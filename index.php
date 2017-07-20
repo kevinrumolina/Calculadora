@@ -1,1 +1,1 @@
-Hello world Heroku! this is my first app
+<?php header("location: /index.html");?>
