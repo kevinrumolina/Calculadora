@@ -1,0 +1,12 @@
+body{
+  background-color: pink;
+}
+
+.menu_item, .menu{
+  display: inline-block;
+  height: 24px;
+}
+
+.menu_item{
+    border: 1px dotted purple;
+}
